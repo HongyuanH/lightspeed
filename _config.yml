@@ -1,10 +1,10 @@
 # Permalinks
-permalink:           pretty
+permalink:           /blog/:title
 
 # Setup
-title:               'Light Speed'
-url:                 https://lightspeed.netlify.com
-tagline:             'Jekyll theme with a perfect Lighthouse score'
+title:               'Ho Ho'
+url:                 https://hongyuanh.github.io/anotherblog/
+tagline:             'Hello World'
 baseurl:             ""
 
 # Assets
@@ -14,15 +14,11 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
-# Cloudinary
-#cloudinary:
-#  cloud_name: your cloudinary username
-
 # About/contact
 author:
-  name:              Bradley Taunt
-  url:               https://twitter.com/bradtaunt
-  email:             bradleytaunt@gmail.com
+  name:              Hongyuan Huang
+  url:               https://cba.com
+  email:             abc@gmail.com
 
 # Custom vars
 version:             1.0.0
