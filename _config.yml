@@ -2,11 +2,10 @@
 permalink:           /anotherblog/:title
 
 # Setup
-title:               'Ho Ho'
+title:               '笋爸的博客'
 url:                 https://hongyuanh.github.io/anotherblog/
-tagline:             'Hello World'
+tagline:             '所想与所得'
 baseurl:             ""
-encoding:            utf-8
 
 # Assets
 #
@@ -18,8 +17,8 @@ sass:
 # About/contact
 author:
   name:              Hongyuan Huang
-  url:               https://cba.com
-  email:             abc@gmail.com
+  url:               
+  email:             
 
 # Custom vars
 version:             1.0.0
