@@ -6,6 +6,7 @@ title:               'Ho Ho'
 url:                 https://hongyuanh.github.io/anotherblog/
 tagline:             'Hello World'
 baseurl:             ""
+encoding:            utf-8
 
 # Assets
 #
