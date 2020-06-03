@@ -1,5 +1,5 @@
 # Permalinks
-permalink:           /anotherblog/:title
+permalink:           /anotherblog/:year/:month/:day/:title
 
 # Setup
 title:               '笋爸的博客'
