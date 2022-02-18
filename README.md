@@ -1,4 +1,2 @@
 # It's Just Another Blog 
-hehe
-
-It is an experiment.
+大家好！这是我的blog。
